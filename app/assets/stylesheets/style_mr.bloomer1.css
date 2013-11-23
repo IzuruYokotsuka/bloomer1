@@ -1,0 +1,421 @@
+body {
+			background-color: #white;
+			
+			}
+
+			article {
+
+			}
+			
+			section#home1 {
+				margin-top: 50px;
+				padding-top:100px;
+				margin-bottom: 100px;
+				margin-left: auto;
+				margin-right: auto;
+				width: 1280px;
+				padding-bottom: 200px;
+				text-align:center;
+				
+			}
+
+			section#home1 h1 {
+				font-size: 3.8em;
+				font-family: "Century Gothic", sans-serif;
+				padding-bottom: 5px;
+				margin-bottom: 0;
+				margin-top: 0;
+				font-weight: 1px;
+				letter-spacing: 0pt;
+				color: #333333;
+			}
+			
+			section#home1 h2 {
+				font-size: 2.4em;
+				font-family: "ＭＳ Ｐ明朝", "MS PMincho", sans-serif;
+				padding-bottom: 5px;
+				margin-bottom: 100px;
+				margin-top: 20px;
+				font-weight: 800;
+				letter-spacing: 22pt;
+				color: #b3b3b3;
+			}
+			
+			section#home1 h3 input {
+				background-color: #fce900;
+				color: white;
+				width: 310px;
+				height: 52px;
+				font-size: 1.2em;
+				margin-top: 15px;
+				border-radius: 4px;
+				border: outset 1px #fce900;
+				letter-spacing: 2pt;
+				font-weight: normal;
+				font-family: "Century Gothic", sans-serif;
+				text-align: center;
+			}
+			
+			section#home1 h4 {
+				margin-top:300px;
+				
+			}
+			
+			
+			header {
+				text-align: center;
+				margin-right: auto;
+				margin-left: auto;
+				background-color: rgba(255,255,255,0.9);
+				padding-top: 0;
+				padding-bottom: 0;
+				padding-right: 100px;
+				position: fixed;
+				top: 0;
+				
+				width: 1300px;
+				height:50px
+			}
+
+			header h1 {
+				margin-left: 10px;
+				float: left;
+				margin-top: 10px;
+				padding-right: 80px;
+				padding-left: 100px;
+			}
+
+			nav {
+
+				text-align: center;
+				float: left;
+				padding-right: 5px
+			}
+
+			nav ul {
+
+				list-style: none
+			}
+
+			nav ul li {
+
+				display: inline;
+				padding: 2px;
+			}
+
+			nav ul li a {
+
+				text-decoration: none
+			}
+
+			div#back-to-top {
+				float: left;
+				width: 100px;
+			}
+
+			div#back-to-what {
+				float: left;
+				width: 150px;
+				margin-left: 80px
+			}
+
+			div#back-to-who {
+				float: left;
+				width: 150px;
+				margin-left: 80px
+			}
+
+			div#back-to-contact {
+				float: left;
+				width: 100px;
+				margin-left: 100px
+			}
+
+            div#back-to-account {
+            	width:350;
+            	height:50;
+            	
+            }
+
+			section#whatwedo1 {
+				margin-left: auto;
+				margin-right: auto;
+				width: 1280px;
+			}
+
+			section#whatwedo1 h1 img {
+				border-radius: 8px;
+				-webkit-box-shadow: 0px 4px 3px #999999;
+				box-shadow: 0px 4px 3px #999999;
+			}
+
+			section#whatwedo2 {
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				width: 1280px;
+			}
+
+			section#whatwedo2 h1 img {
+				border-radius: 8px;
+				-webkit-box-shadow: 0px 4px 3px #999999;
+				box-shadow: 0px 4px 3px #999999;
+			}
+
+			section#whatwedo3 {
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				width: 1280px;
+			}
+
+			section#whatwedo3 h1 img {
+				border-radius: 8px;
+				-webkit-box-shadow: 0px 4px 3px #999999;
+				box-shadow: 0px 4px 3px #999999;
+			}
+
+			section#account {
+				background-color: #ffffff;
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				width: 1280px;
+				border: outset 1px #ffffff;
+				border-radius: 8px;
+				-webkit-box-shadow: 0px 4px 3px #999999;
+				box-shadow: 0px 4px 3px #999999;
+				padding-top: 50px;
+				padding-bottom: 500px
+			}
+
+			section#account h1 {
+				font-size: 3.1em;
+				font-family: "ＭＳ Ｐ明朝", "MS PMincho", sans-serif;
+				color: #666666;
+				text-align: center;
+			}
+
+			div#sns {
+				margin-left: 80px;
+				margin-top: 0;
+				padding-bottom:86px;
+				float: left;
+			}
+
+			div#sns h2 {
+				margin-bottom: 50px;
+				padding-left: 40px;
+				font-family: "ＭＳ Ｐ明朝", "MS PMincho", sans-serif;
+				font-size: 1.6em
+			}
+
+			div#sns p {
+				line-height: 60%;
+				margin-bottom: 0;
+				margin-top: 0;
+			}
+
+			div#mail {
+				margin-top: 0;
+				float: left;
+				margin-left: 80px;
+			}
+
+			div#mail h2 {
+				font-size: 1.6em;
+				font-family: "ＭＳ Ｐ明朝", "MS PMincho", sans-serif;
+				margin-bottom: 70px;
+				text-align:right;
+				padding-right:40px;
+			}
+
+			div#mail p {
+				font-family: "ＭＳ Ｐ明朝", "MS PMincho", sans-serif;
+				font-weight: normal;
+				font-size: 1.5em;
+				text-align: right
+			}
+
+			div#mail p#form input {
+				height: 30px;
+				border-radius: 6px;
+				-webkit-box-shadow: 0px 4px 3px #999999;
+				box-shadow: 0px 4px 3px #999999;
+				border: outset 1px #ffffff;
+				font-size: 0.8em
+			}
+
+			div#mail p#sakusei input {
+				background-color: #ff6a00;
+				color: #ffffff;
+				width: 300px;
+				height: 50px;
+				font-size: 1em;
+				margin-top: 5px;
+				border-radius: 8px;
+				border: outset 1px #fffa2e;
+				letter-spacing: 1pt;
+				font-weight: normal;
+				font-family: "ＭＳ Ｐ明朝", "MS PMincho", sans-serif;
+			}
+
+            section#whoweare {
+            	background-color: #fffa2e;
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				width: 1280px;
+				border: outset 1px #ffffff;
+				border-radius: 8px;
+				-webkit-box-shadow: 0px 4px 3px #999999;
+				box-shadow: 0px 4px 3px #999999;
+				padding-top: 50px;
+				padding-bottom: 600px
+            	
+            }
+
+            section#whoweare h1 {
+            	font-size: 2.7em;
+				width: 650px;
+				margin-left: 140px;
+				margin-top: 50px;
+				margin-bottom:0;
+				color: #ffffff;
+				line-height: 120%;
+				font-family: "helvetica", sans-serif;
+				font-weight: bold
+            }
+
+            section#whoweare p {
+            	font-size: 1.2em;
+				width: 680px;
+				margin-left: 140px;
+				font-family: "helvetica", sans-serif;
+            	color: #ffffff;
+            }
+            
+            section#whoweare h2 {
+            	font-size: 3em;
+				color: #ffffff;
+				text-align:right;
+				margin-right:140px;
+				margin-top: -40px;
+				font-family: "helvetica", sans-serif;
+				margin-bottom:10px;
+            }
+            
+            div#team {
+            	width:280px;
+				margin-right: 0;
+				margin-bottom: 0;
+				float:left;
+				margin-left: 700px;
+				margin-top: 0;
+				text-align: right;
+				
+            }
+            
+            div#team h3 {
+            	font-size: 1.7em;
+				color: #ffffff;
+				font-family: "helvetica", sans-serif;
+				margin-bottom: 2.5px;
+				
+            }
+            
+            div#team h4 {
+            	font-size: 1em;
+				color: #ffffff;
+				font-family: "helvetica", sans-serif;
+				margin-top: 2.5px;
+				margin-bottom: 2.5px
+            }
+            
+            div#team h5 {
+            	font-family: "helvetica", sans-serif;
+            	font-style: italic;
+            	color:#ffffff;
+            	font-size:0.8em;
+            	margin-top:2.5px;
+            	font-weight:normal
+            }
+            
+            div#members {
+            	width:80px;
+            	float:left;
+            	margin-left:70px;
+            	line-height:60%;
+            	margin-top:10px
+            }
+
+            div#members h3 {
+            	width:80px
+            }
+
+            section#contact {
+            	background-color: #ffffff;
+				margin-top: 50px;
+				margin-left: auto;
+				margin-right: auto;
+				width: 1280px;
+				border: outset 1px #ffffff;
+				border-radius: 8px;
+				-webkit-box-shadow: 0px 4px 3px #999999;
+				box-shadow: 0px 4px 3px #999999;
+				padding-top: 200px;
+				padding-bottom: 200px
+            	
+            }
+            
+            section#contact h1 {
+            	color:#ffffff;
+            	font-family:"Century Gothic", sans-serif;
+            	text-align: center;
+            	font-size: 2.8em;
+            }
+            
+            div#please {
+            	background-color:#4d4d4d;
+            	padding-top: 50px;
+				padding-bottom: 50px
+            }
+
+            address {
+            	text-align: center;
+				margin-top: 100px
+            }
+
+            address a {
+				color: #000000;
+				font-style: normal;
+				font-size: 2em;
+				font-family:"Century Gothic", sans-serif;
+			}
+
+            footer {
+				margin-top: 50px;
+				color: #888888;
+				border-top: solid 1px #aaaaaa;
+				padding-top: 10px;
+				padding-bottom: 10px;
+				width:1200px;
+				text-align: center;
+				margin-right: auto;
+				margin-left: auto;
+				
+			}
+
+			small {
+				font-size: 1em;
+				font-style: italic;
+				text-align: center;
+				display: block
+			}
+
+			small a {
+                color: #000000;
+				font-style: normal;
+				font-size: 1em;
+				font-family:"Century Gothic", sans-serif;
+			}
